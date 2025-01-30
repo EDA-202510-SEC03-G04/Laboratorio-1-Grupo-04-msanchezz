@@ -39,7 +39,7 @@ Este repositorio forma parte del marco docente de estructura de datos y algoritm
 Los estudiantes editan esta sección para agregar sus nombres, correos electrónicos de Uniandes y especificar qué funcionalidad de proyecto implementarán.
 
 1. Mateo Sanchez, m.sanchezz@uniandes.edu.co, 202321354, Edicion de ReadMe lab1
-1. Jeronimo quevedo, j.quevedo1@uniandes.edu.co, 202422580, edicio de Readme lab1
+1. Jeronimo quevedo, j.quevedo1@uniandes.edu.co, 202422580, Edicion de Readme lab1
 1. Juan David Nieto, j.nietom@uniandes.edu.co, 202411007, Edicion de Readme lab1 
 
 [Volver al inicio](#laboratorio-1)
